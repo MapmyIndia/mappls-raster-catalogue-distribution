@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapplsRasterCatalogue",
-            url: "https://mmi-api-team.s3.amazonaws.com/Mappls-SDKs/iOS_Legacy_Auth/MapplsRasterCatalogue/MapplsRasterCatalogue.xcframework-1.0.1.zip",
-            checksum: "af028fba1a39a7139f33e66ea61a1436492ae84873d228f625895b377b894507"
+            url: "https://mmi-api-team.s3.amazonaws.com/Mappls-SDKs/iOS_Legacy_Auth/MapplsRasterCatalogue/MapplsRasterCatalogue.xcframework-1.0.2.zip",
+            checksum: "7c486215ad93782574bbfa2173febdd1cf07828442b9f86d3dfabce4cbe04484"
         )
     ]
 )
